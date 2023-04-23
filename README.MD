@@ -19,7 +19,7 @@ Para baixar e executar o projeto, abra o terminal na pasta onde deseja baixar o 
 
 ### Links
 
-- [API](https://github.com/savifon/waiterapp-api).
-- [Mobile](https://github.com/savifon/waiterapp-api).
+- [API](https://github.com/savifon/waiterapp-api)
+- [Mobile](https://github.com/savifon/waiterapp-api)
 
 > <sub><sup>Este projeto foi criado durante a imersão "O Poder do JS", de Matheus Silva, criador do JStack.<sub><sup>
