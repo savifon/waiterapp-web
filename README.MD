@@ -15,6 +15,14 @@ Para baixar e executar o projeto, abra o terminal na pasta onde deseja baixar o 
 - `npm install` ou `yarn install`
 - `npm run dev` ou `yarn dev`
 
+### Tecnologias
+
+- React
+- Axios
+- SocketIO
+- React Toastify
+- Styled Components
+
 ![image](https://user-images.githubusercontent.com/31941701/233858676-224fb29e-7346-4cfa-aedb-d5d6ba57f5b0.png)
 
 ### Links
